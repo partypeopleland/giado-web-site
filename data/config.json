@@ -1,0 +1,41 @@
+{
+  "company": {
+    "name": "ART 國際有限公司",
+    "name_en": "ART International Co., Ltd.",
+    "short_name": "ART",
+    "tagline": "專業冰品機器設備，創造甜蜜商機",
+    "tagline_en": "Professional Ice Cream Equipment, Creating Sweet Opportunities",
+    "description": "ART 國際專注於冰品機器設備的引進與銷售，代理全系列硬冰淇淋機、軟冰淇淋機、展示柜等專業設備，協助餐飲業者輕鬆切入冰品市場。",
+    "founded": "2020",
+    "phone": "+886-2-XXXX-XXXX",
+    "email": "art@missart.net",
+    "address": "台灣",
+    "line_id": "@art"
+  },
+  "nav": [
+    {
+      "label": "首頁",
+      "path": "/"
+    },
+    {
+      "label": "關於我們",
+      "path": "/about"
+    },
+    {
+      "label": "產品介紹",
+      "path": "/services"
+    },
+    {
+      "label": "加盟資訊",
+      "path": "/franchise"
+    },
+    {
+      "label": "最新消息",
+      "path": "/news"
+    },
+    {
+      "label": "聯絡我們",
+      "path": "/contact"
+    }
+  ]
+}
